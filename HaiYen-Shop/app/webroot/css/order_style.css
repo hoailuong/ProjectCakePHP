@@ -1,0 +1,55 @@
+
+.ab {
+    width: 859px;
+    border-radius: 0px;
+}
+
+.control-label{
+font-size:21px;
+}
+
+.FormContent {
+    color: rgba(0,0,0,.87);
+}
+.freebirdFormviewerViewHeaderHeader {
+    padding-bottom: 22px;
+}
+.title {
+    font-size: 34px;
+}
+.FormContent input.form-control {
+    border-radius: 0px;
+   
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.control-label {
+    font-size: 16px;
+}
+
+.btn {
+	color: #F7F7F5;
+    background-color: #b83082;
+    display: inline-block;
+    padding: 8px 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.btn:hover, .btn:focus, .btn.focus {
+    color: #F7F7F5;
+    text-decoration: none;
+}
+th{
+color: #120000;
+}
+.gia{
+color: #F0550A;
+}
+.footer_input{
+width: 263px;
+margin-left: 0px;
+}

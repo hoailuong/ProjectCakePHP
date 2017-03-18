@@ -1,0 +1,21 @@
+.col-md-8 h1{
+    color: #111;
+    margin-bottom: 20px
+}
+.col-md-8 label{
+    color: #111;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.col-md-8 form button{ float: right; margin: 20px; margin-right: 0px;}
+.col-md-8 form{margin-top: 20px;}
+.col-md-8 form input{border-radius: 5px;}
+.col-md-8 form textarea{border-radius: 5px;}
+.col-md-8 b{color:red;}
+.col-md-4 {
+    color: #111;
+    margin-bottom: 20px;
+}
+.col-md-4 p{line-height: 25px;}
+.col-md-4 a{ text-decoration: none; color: #111}
+.col-md-4 a:hover{text-decoration: underline; color: blue;}
